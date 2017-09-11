@@ -1,3 +1,4 @@
+
 # Joe Rafla's Digital Humanities
 
 ## Short Academic Bio
