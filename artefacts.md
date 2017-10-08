@@ -1,4 +1,4 @@
-		"How to Close Read a Topic Model: TWiC Reads Emily Dickinson's Fascicles"
+		**"How to Close Read a Topic Model: TWiC Reads Emily Dickinson's Fascicles"**
 
 Tool
 
