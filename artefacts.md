@@ -8,7 +8,7 @@ permission:
 
 Jonathan Illan Armoza. New York University. jarmoza@gmail.com
 
-Tags: topic analysis, close read,
+Tags: topic, model, dickinson, texts, models
 
 anotation (150 words)
 
@@ -23,7 +23,7 @@ permission:
 
 Hannah Jacobs. Duke University, United States of America. hannah.jacobs@duke.edu
 
-Tags: visualize, pedagogy, representation,
+Tags: visualization, instructors, digital, course, humanities
 
 anotation (150 words):
 				
