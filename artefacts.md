@@ -1,10 +1,15 @@
-		"How to Close Read a Topic Model: TWiC Reads Emily Dickinson’s Fascicles"
+		"How to Close Read a Topic Model: TWiC Reads Emily Dickinson's Fascicles"
 
 Tool
+
 https://dh2017.adho.org/abstracts/238/238.pdf
+
 permission:
+
 Jonathan Illan Armoza. New York University. jarmoza@gmail.com
+
 Tags: topic analysis, close read,
+
 			anotation(150 words):
 
 
