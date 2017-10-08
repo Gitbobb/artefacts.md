@@ -15,6 +15,7 @@ anotation (150 words)
 
 
 
+
 		
 		"Points, Lines, Polygons, and Pixels: A Framework for Teaching & Learning Humanities through Visualization"
  
@@ -30,6 +31,7 @@ Tags: visualize, pedagogy, representation,
 
 anotation (150 words):
 
+			
 			
 			
 			"Modeling Interpretation in 3DH: New dimensions of visualization"
