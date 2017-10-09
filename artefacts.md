@@ -1,8 +1,4 @@
-		
-		
-		(https://user-images.githubusercontent.com/31863148/31346160-32529596-ace6-11e7-97d7-3bf00ebad11c.jpg)
-		
-	
+
 		
 		"How to Close Read a Topic Model: TWiC Reads Emily Dickinson's Fascicles"
 
