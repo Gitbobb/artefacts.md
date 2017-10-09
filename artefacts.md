@@ -29,7 +29,7 @@ For a lexical breakdown of this paper see Voyant tools: http://voyant-tools.org/
 
 
 	
-		Points, Lines, Polygons, and Pixels: A Framework for Teaching & Learning Humanities through Visualization
+		## Points, Lines, Polygons, and Pixels: A Framework for Teaching & Learning Humanities through Visualization
 
 		
 		
