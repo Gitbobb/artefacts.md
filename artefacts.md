@@ -4,7 +4,7 @@
 
 		
 
-Aftefact type: Tool
+Artefact type: Tool
 
 Source URL: https://dh2017.adho.org/abstracts/238/238.pdf
 
