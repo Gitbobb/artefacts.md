@@ -114,7 +114,9 @@ This paper is part of a larger research project that seeks to explore three dime
 
 As an illustrative, to exemplify their approach, they discuss topic modelling as a large scale data-organizing method which itself can be subjected to close reading through visual interpretation. This they call, “close reading of primary data” (Meister et al. 3). They discuss two other ways to use their pioneering hermeneutic approach on data and its visualization, and future research vistas such as “user  parameterized  enunciative  functionality  into graphical  display” (Meister et al 4). Narratology, among others, is mentioned as one of the “mapped out” interpretive disciplines that could help with future 3DH development.
 
-For a lexical breakdown of this paper see Voyant tools:http://voyant-tools.org/?corpus=4f1b04d0d15aba4b6abe00600130f279
+For a lexical breakdown of this paper see Voyant tools:http://voyant-tools.org/?corpus=4f1b04d0d15aba4b6abe00600130f279.
+
+
 
 
 
