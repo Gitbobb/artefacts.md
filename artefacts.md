@@ -84,6 +84,11 @@ For a lexical analysis of this paper see Voyant tools: http://voyant-tools.org/?
 				
 			
 			"Modeling Interpretation in 3DH: New dimensions of visualization"
+			
+		
+![screen shot 2017-10-09 at 2 47 03 pm](https://user-images.githubusercontent.com/31863148/31353523-e343be10-ad00-11e7-8d88-6d68f3a2c3be.png)
+
+
 
 Article
 
