@@ -1,4 +1,4 @@
-		## How to Close Read a Topic Model: TWiC Reads Emily Dickinson's Fascicles
+			"How to Close Read a Topic Model: TWiC Reads Emily Dickinson's Fascicles"
 						
 ![armoza_ss](https://user-images.githubusercontent.com/31863148/31349765-95dafd36-acf2-11e7-9098-7ab75665bb80.png)
 
@@ -35,7 +35,7 @@ For a lexical breakdown of this paper see Voyant tools: http://voyant-tools.org/
 
 
 	
-		## Points, Lines, Polygons, and Pixels: A Framework for Teaching & Learning Humanities through Visualization
+		"Points, Lines, Polygons, and Pixels: A Framework for Teaching & Learning Humanities through Visualization"
 		
 
 		
