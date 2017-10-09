@@ -1,7 +1,7 @@
 DIGITAL HUMANITIES ARTEFACTS			
 			
 			
-			"How to Close Read a Topic Model: TWiC Reads Emily Dickinson's Fascicles"
+			"HOW TO CLOSE READ A TOPIC MODEL: TWiC READS EMILY DICKINSON'S FASCICLES"
 			
 						
 ![armoza_ss](https://user-images.githubusercontent.com/31863148/31349765-95dafd36-acf2-11e7-9098-7ab75665bb80.png)
