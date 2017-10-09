@@ -47,7 +47,7 @@ For a lexical breakdown of this paper see Voyant tools: http://voyant-tools.org/
  
  
  
-Artefact type: Article
+Artefact type: Article: pedagogy
 
 Source URL: https://dh2017.adho.org/abstracts/397/397.pdf
 
@@ -61,8 +61,7 @@ Tags: visualization, instructors, digital, course, humanities
 					
 Keywords: visualization, instructors, digital, course, humanities
 
-The writer posits a world wide shift from textuality to visuality as a motive to develop replicable and a scalable pedagogical methodology to assist instructors in teaching data visualization.
-The paper’s central concern is about developing a method to help instructors integrate the following (Jacobs 1):
+The writer posits a world wide shift from textuality to visuality as a motive to develop replicable and a scalable pedagogical methodology to assist instructors in teaching data visualization. The paper’s central concern is about developing a method to help instructors integrate the following (Jacobs 1):
 
 - digital methods 
 - available resources
