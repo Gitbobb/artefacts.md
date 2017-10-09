@@ -30,7 +30,7 @@ For a lexical breakdown of this paper see Voyant tools: http://voyant-tools.org/
 		
 		
 		
-[1025px-Star_polygon_70-31.svg.pdf](https://github.com/Gitbobb/Digital-Humanties/files/1369344/1025px-Star_polygon_70-31.svg.pdf)
+![1025px-star_polygon_70-31 svg](https://user-images.githubusercontent.com/31863148/31350470-4d16d9f0-acf5-11e7-8df7-7d7089860976.png)
  
  
  
