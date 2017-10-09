@@ -29,7 +29,9 @@ For a lexical breakdown of this paper see Voyant tools: http://voyant-tools.org/
 		Points, Lines, Polygons, and Pixels: A Framework for Teaching & Learning Humanities through Visualization
 		
 		
-		![1025px-star_polygon_70-31 svg](https://user-images.githubusercontent.com/31863148/31350162-2a4534f4-acf4-11e7-9313-59597829d061.png)
+		
+[1025px-Star_polygon_70-31.svg.pdf](https://github.com/Gitbobb/Digital-Humanties/files/1369344/1025px-Star_polygon_70-31.svg.pdf)
+ 
  
  
 Article
