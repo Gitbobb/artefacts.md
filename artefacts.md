@@ -34,7 +34,7 @@ For a lexical breakdown of this paper see Voyant tools: http://voyant-tools.org/
 
 
 	
-		"Points, Lines, Polygons, and Pixels: A Framework for Teaching & Learning Humanities through Visualization"
+		 "POINTS, LINES, POLYGONS, and PIXELS: A FRAMWORK FOR TEACHING & LEARNING HUMANITIES THROUGH VISUALIZATION"
 		
 
 		
@@ -90,7 +90,7 @@ For a lexical breakdown of this paper see Voyant tools: http://voyant-tools.org/
 
 				
 			
-			"Modeling Interpretation in 3DH: New dimensions of visualization"
+			"MODELING INTERPREATION IN 3DH: NEW DIMENSIONS OF VISUALIZATION"
 			
 		
 ![screen shot 2017-10-09 at 2 47 03 pm](https://user-images.githubusercontent.com/31863148/31353523-e343be10-ad00-11e7-8d88-6d68f3a2c3be.png)
