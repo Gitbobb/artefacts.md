@@ -32,7 +32,8 @@ For a lexical breakdown of this paper see Voyant tools: http://voyant-tools.org/
 		
 		
 		
-![1025px-star_polygon_70-31 svg](https://user-images.githubusercontent.com/31863148/31350637-e7a2c060-acf5-11e7-9c04-1831399c8a29.png)
+
+![1025px-star_polygon_70-31 svg](https://user-images.githubusercontent.com/31863148/31350788-77bb2e1c-acf6-11e7-8fae-2ad356152b76.png)
 
  
  
