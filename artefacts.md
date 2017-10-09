@@ -30,8 +30,6 @@ For a lexical breakdown of this paper see Voyant tools: http://voyant-tools.org/
 
 
 
-
-
 	
 		"Points, Lines, Polygons, and Pixels: A Framework for Teaching & Learning Humanities through Visualization"
 		
@@ -85,8 +83,7 @@ informational, conceptual, spatial, or temporal (Jacobs 2).
 For a lexical breakdown of this paper see Voyant tools: http://voyant-tools.org/?corpus=5df7e2acaa02926c044415dbbb0b2efd 
 
 
-_______________________________________________________________________________________________________________
-
+	____________________________________________________________________________________________________________
 
 				
 			
