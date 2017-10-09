@@ -9,7 +9,7 @@ Artefact type: Tool
 
 Source URL: https://dh2017.adho.org/abstracts/238/238.pdf
 
-permission: open source. photo credit: Jonathan Armoza
+permission:  Creative Commons-Attribution 4.0 (CC-BY 4.0). photo credit: Jonathan Armoza.
 
 Jonathan Illan Armoza. New York University. jarmoza@gmail.com
 
@@ -50,7 +50,7 @@ Artefact type: Article
 
 Source URL: https://dh2017.adho.org/abstracts/397/397.pdf
 
-permission:open source, photo credit: creative commons
+permission: Creative Commons-Attribution 4.0 (CC-BY 4.0), photo credit: creative commons
 
 Hannah Jacobs. Duke University, United States of America. hannah.jacobs@duke.edu
 
@@ -96,7 +96,7 @@ Artefact type: Article
 
 Source URL: https://dh2017.adho.org/abstracts/058/058.pdf
 
-permission:open source, photo credit: Meister et al.
+permission: Creative Commons-Attribution 4.0 (CC-BY 4.0), photo credit: Meister et al.
 
 Meister, Jan Christophe. jan-c-meister@uni-hamburg.de University of Hamburg, Germany
 Drucker, Johanna. drucker@gseis.ucla.edu UC Los Angeles, United States of America
@@ -113,6 +113,15 @@ This paper is part of a larger research project that seeks to explore three dime
 As an illustrative, to exemplify their approach, they discuss topic modelling as a large scale data-organizing method which itself can be subjected to close reading through visual interpretation. This they call, “close reading of primary data” (Meister et al. 3). They discuss two other ways to use their pioneering hermeneutic approach on data and its visualization, and future research vistas such as “user  parameterized  enunciative  functionality  into graphical  display” (Meister et al 4). Narratology, among others, is mentioned as one of the “mapped out” interpretive disciplines that could help with future 3DH development.
 
 For a lexical breakdown of this paper see Voyant tools:http://voyant-tools.org/?corpus=4f1b04d0d15aba4b6abe00600130f279
+
+
+
+WORKS CITED
+Armoza, Jonathan. "How to Close Read a Topic Model: TWiC Reads Emily Dickinson's Fascicles". Montreal, Quebec. August 2017. Digital Humanities Conference 2017. https://dh2017.adho.org/abstracts/058/058.pdf. Viewed online 2 October 2017.
+
+Jacobs, Hannah. "Points, Lines, Polygons, and Pixels: A Framework for Teaching & Learning Humanities through Visualization". Montreal, Quebec. August 2017. Digital Humanities Conference 2017. https://dh2017.adho.org/abstracts/397/397.pdf. Viewed online 2 October 2017.
+
+Meister et al. "Modeling Interpretation in 3DH: New dimensions of visualization". Montreal,Quebec. August 2017. Digital Humanities Conference 2017. https://dh2017.adho.org/abstracts/058/058.pdf. Viewed online 2 October 2017.
 
       
       
