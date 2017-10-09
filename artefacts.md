@@ -14,7 +14,7 @@ Jonathan Illan Armoza. New York University. jarmoza@gmail.com
 
 Tags: topic, model, dickinson, texts, models
 
-Anotation:
+						Anotation
 
 Keywords: topic, model, dickinson, texts, models
 
@@ -23,9 +23,6 @@ The hypothesis that underlies the making of this tool is, “...emerging paths o
 Armoza starts by observing that quantitative topic analysis outputs lists of words that have to be examined apart from their corpora, i.e. apart from their source texts, which alienates the analyst from close reading techniques. TWiC (Text Words in Context) is the name of Armoza’s analytical tool to enable scholars to understand the cultural object under analysis at different scales: from the corpus level to the individual text level. TWiC can be viewed at the following web address: README.md file at github.com/jarmoza/twic.
 
 For a lexical breakdown of this paper see Voyant tools: http://voyant-tools.org/?corpus=ed3ac9167e21f97d68dc687b961714e7 
-
-
-
 
 
 
@@ -58,7 +55,8 @@ Hannah Jacobs. Duke University, United States of America. hannah.jacobs@duke.edu
 
 Tags: visualization, instructors, digital, course, humanities
 
-Anotation:
+					Anotation
+					
 Keywords: visualization, instructors, digital, course, humanities
 
 The writer posits a world wide shift from textuality to visuality as a motive to develop replicable and a scalable pedagogical methodology to assist instructors in teaching data visualization.
@@ -72,7 +70,7 @@ concepts of visualization
 
 Furthermore the method frame-worked is iterative, allowing for a flexibility of redesign to meet the vagaries of available data and computational resources. 
 
-Here is the method step by step:
+Here is the method as a flow chartish:
 The research question is formulated
 If there is not sufficient source material (i.e. data) available
 The question is reformulated around available resources
@@ -99,7 +97,14 @@ Rockwell, Geoffrey. geoffrey.rockwell@ualberta.ca University of Alberta, Canada
 
 Tags: 
 
-anotation (150 words)
+						Anotation
+
+Keywords:  data, visual, visualization, 3dh, modeling
+
+This paper is part of a larger research project that seeks to explore three dimensional visualizations as a hermeneutical tool for the purpose of interpreting data, not only representing it. Traditional scientific data visualizations of empirical evidence poses two concerns: 1) the modelling of such data is hidden, and 2) the lack of specific meaning to such elements as available colors, screen size, i.e. the elements of composition. The research seeks to address two fundamental concerns: 1) what principles define a humanities-based approach to data visualization? and 2) How to graphically express data interpretation as an hermeneutic  activity, and a product of humanistic inquiry. 
+
+As an illustrative, to exemplify their approach, they discuss topic modelling as a large scale data-organizing method which itself can be subjected to close reading through visual interpretation. This they call, “close reading of primary data” (Meister et al. 3). They discuss two other ways to use their pioneering hermeneutic approach on data and its visualization, and future research vistas such as “user  parameterized  enunciative  functionality  into graphical  display” (Meister et al 4). Narratology, among others, is mentioned as one of the “mapped out” interpretive disciplines that could help with future 3DH development.
+
       
       
       
