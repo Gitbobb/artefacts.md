@@ -1,6 +1,9 @@
-![240_f_102057176_mrt5zclfrps5u9s31se1yyengejosxm5](https://user-images.githubusercontent.com/31863148/31347395-3c4bd068-acea-11e7-8d30-44c438ca95ec.jpg)
+            
+						"How to Close Read a Topic Model: TWiC Reads Emily Dickinson's Fascicles"
+
+![armoza_ss](https://user-images.githubusercontent.com/31863148/31349765-95dafd36-acf2-11e7-9098-7ab75665bb80.png)
+
 		
-		"How to Close Read a Topic Model: TWiC Reads Emily Dickinson's Fascicles"
 
 Tool
 
