@@ -118,7 +118,11 @@ For a lexical breakdown of this paper see Voyant tools:http://voyant-tools.org/?
 
 
 
-WORKS CITED
+
+
+
+							WORKS CITED
+
 Armoza, Jonathan. "How to Close Read a Topic Model: TWiC Reads Emily Dickinson's Fascicles". Montreal, Quebec. August 2017. Digital Humanities Conference 2017. https://dh2017.adho.org/abstracts/058/058.pdf. Viewed online 2 October 2017.
 
 Jacobs, Hannah. "Points, Lines, Polygons, and Pixels: A Framework for Teaching & Learning Humanities through Visualization". Montreal, Quebec. August 2017. Digital Humanities Conference 2017. https://dh2017.adho.org/abstracts/397/397.pdf. Viewed online 2 October 2017.
