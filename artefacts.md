@@ -14,7 +14,7 @@ Source URL: https://dh2017.adho.org/abstracts/238/238.pdf
 
 permission:  Creative Commons-Attribution 4.0 (CC-BY 4.0). photo credit: Jonathan Armoza.
 
-Jonathan Illan Armoza. New York University. jarmoza@gmail.com
+creator/affiliation: Jonathan Illan Armoza. New York University. jarmoza@gmail.com
 
 Tags: topic, model, dickinson, texts, models
 
@@ -53,7 +53,7 @@ Source URL: https://dh2017.adho.org/abstracts/397/397.pdf
 
 permission: Creative Commons-Attribution 4.0 (CC-BY 4.0), photo credit: creative commons
 
-Hannah Jacobs. Duke University, United States of America. hannah.jacobs@duke.edu
+creator/affiliation: Hannah Jacobs. Duke University, United States of America. hannah.jacobs@duke.edu
 
 Tags: visualization, instructors, digital, course, humanities
 
@@ -103,7 +103,7 @@ Source URL: https://dh2017.adho.org/abstracts/058/058.pdf
 
 permission: Creative Commons-Attribution 4.0 (CC-BY 4.0), photo credit: Meister et al.
 
-Meister, Jan Christophe. jan-c-meister@uni-hamburg.de University of Hamburg, Germany
+creators and affiliations: Meister, Jan Christophe. jan-c-meister@uni-hamburg.de University of Hamburg, Germany
 Drucker, Johanna. drucker@gseis.ucla.edu UC Los Angeles, United States of America
 Rockwell, Geoffrey. geoffrey.rockwell@ualberta.ca University of Alberta, Canada
 
