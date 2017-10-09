@@ -25,12 +25,15 @@ Armoza starts by observing that quantitative topic analysis outputs lists of wor
 For a lexical breakdown of this paper see Voyant tools: http://voyant-tools.org/?corpus=ed3ac9167e21f97d68dc687b961714e7 
 
 
+
+
 	
 		Points, Lines, Polygons, and Pixels: A Framework for Teaching & Learning Humanities through Visualization
 		
 		
 		
-![1025px-star_polygon_70-31 svg](https://user-images.githubusercontent.com/31863148/31350470-4d16d9f0-acf5-11e7-8df7-7d7089860976.png)
+![1025px-star_polygon_70-31 svg](https://user-images.githubusercontent.com/31863148/31350637-e7a2c060-acf5-11e7-9c04-1831399c8a29.png)
+
  
  
  
