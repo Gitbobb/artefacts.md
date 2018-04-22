@@ -29,7 +29,6 @@ Armoza starts by observing that quantitative topic analysis outputs lists of wor
 For a lexical breakdown of this paper see Voyant tools: http://voyant-tools.org/?corpus=ed3ac9167e21f97d68dc687b961714e7 
 
 
-	_______________________________________________________________________________________________________________
 
 
 
@@ -84,8 +83,6 @@ informational, conceptual, spatial, or temporal (Jacobs 2).
 
 For a lexical breakdown of this paper see Voyant tools: http://voyant-tools.org/?corpus=5df7e2acaa02926c044415dbbb0b2efd 
 
-
-	____________________________________________________________________________________________________________
 
 				
 			
